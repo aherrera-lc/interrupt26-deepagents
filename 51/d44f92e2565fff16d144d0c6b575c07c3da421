@@ -1,0 +1,19 @@
+deep_agent.ipynb
+  s_897e5fab308db0::t_64f83af38d3a8c 2-173,175-258,260-333,335-415,417-439,441-516,518-563,565-624,626-633,636-703,705-710,713-717,719-804,806-833,835-917,919-925
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.6.8",
+  "base_commit_sha": "51d44f92e2565fff16d144d0c6b575c07c3da421",
+  "prompts": {},
+  "sessions": {
+    "s_897e5fab308db0": {
+      "agent_id": {
+        "tool": "claude",
+        "id": "84b705dd-8e50-42e8-8d04-30091fd8dc7b",
+        "model": "claude-opus-4-8"
+      },
+      "human_author": "Ariel Herrera <ariel.herrera@langchain.dev>"
+    }
+  }
+}
